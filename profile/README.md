@@ -48,5 +48,5 @@ Stay updated with our roadmaps, contribute to the code, or join the discussion:
 | **Resources** | **Community** | **Social** |
 | :--- | :--- | :--- |
 | 📋 [Projects](https://github.com/orgs/fintechtonic/projects) | 💬 [Discussions](https://github.com/orgs/fintechtonic/discussions) | 🐦 [Twitter/X](https://x.com/josephpollack) |
-| 🚩 [Issues](https://github.com/orgs/fintechtonic/issues) | 👾 [Discord](https://discord.gg/7YS4Cz2Deq) | 🤗 [HuggingFace](https://hf.co/tonic) |
+| 🚩 [Current Epic](https://github.com/FinTechTonic/creditnexus/issues/60) | 👾 [Discord](https://discord.gg/7YS4Cz2Deq) | 🤗 [HuggingFace](https://hf.co/tonic) |
 | 🗺️ [Roadmaps](#) | 🏗️ [Contribute](CONTRIBUTING.md) | 📧 [Contact](#) |
